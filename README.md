@@ -20,4 +20,4 @@ Here there are 2D and 3D visualizations for **Kmeans** model:
 !["2D Kmeans"](https://github.com/imoyfe/Clusterization-techniques/blob/master/images/kmeans_pca_09.png)
 !["3D Kmeans"](https://github.com/imoyfe/Clusterization-techniques/blob/master/images/3d_kmeans_pca_09.png?raw=true)
 
-3. Performance Conlusions: Metrics
+3. Performance Conclusions: Metrics
